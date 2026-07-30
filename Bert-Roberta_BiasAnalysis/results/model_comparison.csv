@@ -1,0 +1,5 @@
+Category,BERT,RoBERTa,Difference
+Overall,54.53,58.07,3.54
+Gender,57.25,57.63,0.38
+Age,60.92,63.22,2.3
+Nationality,46.54,55.97,9.43
